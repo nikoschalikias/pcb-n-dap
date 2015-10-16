@@ -1,0 +1,16 @@
+[ViaStyles]
+RoutingVias=32-1
+VIASWITDTH2MM=32-1
+VIASWITDTH1MM=32-1
+VIASWITDTH1.5MM=32-1
+[HoleList]
+0=78740
+1=393701
+2=196850
+3=354331
+4=98425
+20=393701
+[LayerDirections]
+TopLayer=horizontal
+MidLayer1=vertical
+BottomLayer=horizontal
