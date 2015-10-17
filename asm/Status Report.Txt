@@ -1,0 +1,10 @@
+Output: Component Cross Reference Report
+Type  : ReportComponents
+From  : Variant [[No Variations]] of Project [N-DAP.PrjPcb]
+   Generated File[Pick_Place.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 12:09:49 On 17/10/2015

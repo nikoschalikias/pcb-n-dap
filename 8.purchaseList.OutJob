@@ -57,30 +57,6 @@ Configuration1_Name5=SortOrder
 Configuration1_Item5=Supplier 1=Down
 Configuration1_Name6=VisibleOrder
 Configuration1_Item6=Designator=93|Comment=156|Description=196|Footprint=146|S.Description=100|Manufacturer 1=99|Manufacturer Part Number 1=99|Supplier 1=69|Supplier Currency 1=52|Supplier Stock 1=65|Supplier Part Number 1=147|Quantity=49|Supplier Order Qty 1=43|Supplier Unit Price 1=76|Supplier Subtotal 1=131|Divider=100
-OutputType2=BOM_PartType
-OutputName2=PurchaseList.csv
-OutputCategory2=Report
-OutputDocumentPath2=
-OutputVariantName2=
-OutputEnabled2=1
-OutputEnabled2_OutputMedium1=0
-OutputEnabled2_OutputMedium2=2
-OutputEnabled2_OutputMedium3=2
-OutputEnabled2_OutputMedium4=0
-OutputDefault2=0
-PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-Configuration2_Name1=ColumnNameFormat
-Configuration2_Item1=CaptionAsName
-Configuration2_Name2=Filter
-Configuration2_Item2=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
-Configuration2_Name3=General
-Configuration2_Item3=OpenExported=False|AddToProject=False|ForceFit=True|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=False|ShowExportOptions=True|TemplateFilename=PurchaseList.xltx|BatchMode=0|FormWidth=1816|FormHeight=652|SupplierProdQty=25|SupplierAutoQty=True|SupplierUseCachedPricing=True|SupplierCurrency=<none>
-Configuration2_Name4=GroupOrder
-Configuration2_Item4=Manufacturer 1=True|Comment=True|Footprint=True
-Configuration2_Name5=SortOrder
-Configuration2_Item5=Supplier 1=Up
-Configuration2_Name6=VisibleOrder
-Configuration2_Item6=Designator=93|Comment=156|Description=196|Footprint=146|S.Description=100|Manufacturer 1=99|Manufacturer Part Number 1=99|Supplier 1=69|Supplier Currency 1=52|Supplier Stock 1=65|Supplier Part Number 1=147|Quantity=49|Supplier Order Qty 1=43|Supplier Unit Price 1=76|Supplier Subtotal 1=131|Divider=100
 
 [PublishSettings]
 OutputFilePath2=bom\purchase.PDF
@@ -108,7 +84,7 @@ MarkPortsId2=1
 GenerateTOC=0
 ShowComponentParameters2=0
 GlobalBookmarks2=0
-OutputFilePath3=F:\orcad4\orcad\N-L15\bom\
+OutputFilePath3=F:\orcad4\orcad\N-DAP\bom\
 ReleaseManaged3=0
 OutputBasePath3=bom\
 OutputPathMedia3=
@@ -123,7 +99,7 @@ OutputFileNameSpecial3=
 OpenOutput3=1
 OutputFilePath4=
 ReleaseManaged4=1
-OutputBasePath4=Project Outputs for N-L15
+OutputBasePath4=Project Outputs for N-DAP
 OutputPathMedia4=
 OutputPathMediaValue4=
 OutputPathOutputer4=[Output Type]
@@ -162,7 +138,7 @@ WmvQuality4=80
 [GeneratedFilesSettings]
 RelativeOutputPath2=bom\purchase.PDF
 OpenOutputs2=1
-RelativeOutputPath3=F:\orcad4\orcad\N-L15\bom\
+RelativeOutputPath3=F:\orcad4\orcad\N-DAP\bom\
 OpenOutputs3=1
 AddToProject3=0
 TimestampFolder3=0

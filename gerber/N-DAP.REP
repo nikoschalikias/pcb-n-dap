@@ -1,0 +1,176 @@
+*************************************************************
+FileName = N-DAP.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : N-DAP.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+*************************************************************
+
+*************************************************************
+Generating : GND PLANE
+      File : N-DAP.GP1
+
+    Adding Layer      : GND PLANE
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D26
+    D27
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : N-DAP.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D21
+    D22
+    D23
+    D24
+    D25
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : N-DAP.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D21
+    D29
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : N-DAP.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : N-DAP.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : N-DAP.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : N-DAP.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : N-DAP.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 3
+      File : N-DAP.GM3
+
+    Adding Layer      : Mechanical 3
+
+
+Used DCodes :
+    D22
+*************************************************************
+
