@@ -291,6 +291,18 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Parameter1]
+Name=txt 
+Value="mbed-enable"
+
+[Parameter2]
+Name=prj
+Value=n-DAP
+
+[Parameter3]
+Name=OrderQty
+Value=20
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
