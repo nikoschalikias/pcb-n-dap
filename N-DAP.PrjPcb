@@ -289,19 +289,19 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=RCOSPSVB
 
 [Parameter1]
-Name=txt 
-Value="mbed-enable"
+Name=OrderQty
+Value=20
 
 [Parameter2]
 Name=prj
 Value=n-DAP
 
 [Parameter3]
-Name=OrderQty
-Value=20
+Name=txt
+Value="mbed-enable"
 
 [Configuration1]
 Name=Default Configuration
