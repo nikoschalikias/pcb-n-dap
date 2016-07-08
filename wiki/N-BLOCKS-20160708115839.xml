@@ -1,0 +1,193 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>N-BLOCKS</sitename>
+    <base>http://www.emboxit.net/nblocks/index.php?title=Main_Page</base>
+    <generator>MediaWiki 1.23.6</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">N-BLOCKS</namespace>
+      <namespace key="5" case="first-letter">N-BLOCKS talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>NBLOCKS:N-DAP</title>
+    <ns>0</ns>
+    <id>41</id>
+    <revision>
+      <id>221</id>
+      <parentid>220</parentid>
+      <timestamp>2016-07-08T11:53:43Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1148">{| style=&quot;float: right;&quot;
+| {{NBLOCKS
+&lt;!--Header--&gt;
+|name = n-DAP
+&lt;!--Image--&gt;
+|image = N-DAP-1.JPG
+&lt;!--General--&gt;
+|description = CMSIS-DAP Interface for mbed
+|Authors = NC
+|basedOn = [[n-U35]]
+|url = [https://bitbucket.org/nimbus_it/n-dap bitbucket]
+|url2 = [https://bitbucket.org/nimbus_it/n-dap bitbucket]
+|ztatus = Prototype
+|bcolor = blue
+}}
+|}
+
+==Pinout==
+[[File:N-DAP-5.JPG|1000px]]
+
+
+==Background==
+LPC11U32 based CMSIS-DAP programming of ARM Cortex devices via SWD. Appears as a Disk to PC. Tested with mbed firmware.&lt;br&gt;
+Can be designed-in as an SMD component to provide mbed '''mbed-enable''' capability
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;&lt;br&gt;
+
+==Features==
+*Breadboard-able: 1/10 inch connector pitch
+*Solder as SMD component: SMD half pads at 1/10' pitch
+*Robust USB mini connector:
+&lt;br&gt;&lt;br&gt;
+
+
+==mbed-enable Firmware==
+*Firmware to use n-DAP with the non-SMD LPC1114FN28 DIP-28 [https://developer.mbed.org/teams/Switch-Science/wiki/Firmware-LPC1114FN28 Firmware LPC1114FN28]
+&lt;br&gt;&lt;br&gt;
+
+==History==
+
+&lt;br&gt;&lt;br&gt;
+
+==Gallery==
+&lt;gallery&gt;
+File:N-DAP-3.JPG
+File:N-DAP-2.JPG
+File:N-DAP-4.JPG
+&lt;/gallery&gt;
+
+&lt;br&gt;&lt;br&gt;
+
+==Related articles in this Wiki==
+*[[ ]]
+&lt;br&gt;&lt;br&gt;</text>
+      <sha1>cst792rlbpjbbxba04f9yf3ffki5whh</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Template:NBLOCKS</title>
+    <ns>10</ns>
+    <id>3</id>
+    <revision>
+      <id>179</id>
+      <parentid>178</parentid>
+      <timestamp>2016-06-27T22:20:51Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <text xml:space="preserve" bytes="2362">&lt;includeonly&gt;&lt;div class=&quot;NBLOCKS&quot; style=&quot;float: right; width: 240px; color: white; padding: 5px; margin: 0 0 5px 5px; text-align: center; border-radius: 15px; font-weight: bold; background-color:{{{bcolor|cyan}}};&quot;&gt;[[Image:Run.png|left|40px]]&lt;!-- TODO: 40px x 40px icon here --&gt;&lt;span style=&quot;font-size: 130%;&quot;&gt;{{{name|{{PAGENAME}}}}}&lt;/span&gt;&lt;br /&gt;
+&lt;span style=&quot;font-size: bigger; font-weight: bolder;&quot;&gt;series NBLOCKS&lt;/span&gt;&lt;br /&gt;
+&lt;span style=&quot;font-size: bigger; font-weight: bolder;&quot;&gt;STATUS : {{{ztatus|Undefined}}}&lt;/span&gt;
+&lt;div style=&quot;background-color: white; margin: 0 5px 5px 5px; border-radius: 0 0 8px 8px; color: black; font-weight: normal; text-align: left;&quot;&gt;
+[[Image:{{{image|No image available.png}}}|center|230px]][[Category:NBLOCKS]]
+{| style=&quot;background-color: transparent; width: 100%;&quot; |
+|-
+| colspan=&quot;2&quot; style=&quot;text-align: center&quot; | {{{description|&amp;nbsp;}}}
+|-
+| style=&quot;vertical-align: top&quot; | '''License''' || {{{license|GPL 2.0}}}
+|-
+| style=&quot;vertical-align: top&quot; | '''Authors''' || {{{Authors|}}}
+|-
+| style=&quot;vertical-align: top&quot; | '''Contributors''' || {{{Contributors|}}}
+|-
+| style=&quot;vertical-align: top&quot; | '''Based-on''' || {{{basedOn|}}}
+|-
+| style=&quot;vertical-align: top&quot; | '''Categories''' || {{{categories|none}}}
+|-
+| style=&quot;vertical-align: top&quot; | '''Hardware repo''' || {{{url|}}}
+|-
+| style=&quot;vertical-align: top&quot; | '''Firmware repo''' || {{{url2|}}}
+|}
+&lt;/div&gt;
+&lt;/div&gt;&lt;/includeonly&gt;
+&lt;noinclude&gt;
+
+== Template Documentation ==
+An infobox template for describing NBLOCKS board.
+
+==Parameters==
+*'''name''' (optional)
+*'''image''' (optional)
+===General===
+*'''description''' (optional)
+*'''wikipedia''' (optional)
+
+==Usage==
+{| style=&quot;float: right;&quot;
+| {{NBLOCKS
+&lt;!--Header--&gt;
+|name = n-Grove
+&lt;!--Image--&gt;
+|image = n-Grove-1.jpg
+&lt;!--General--&gt;
+|description = Grove Interface 
+|Authors = NC
+|url = [https://bitbucket.org/nimbus_it/proj_n-hlora bitbucket]
+|url2 = [https://bitbucket.org/nimbus_it/proj_n-hlora bitbucket]
+|ztatus = Design
+|bcolor = pink
+}}
+|}
+&lt;pre&gt;
+{| style=&quot;float: right;&quot;
+| {{NBLOCKS
+&lt;!--Header--&gt;
+|name = n-Grove
+&lt;!--Image--&gt;
+|image = n-Grove-1.jpg
+&lt;!--General--&gt;
+|description = Grove Interface 
+|Authors = NC
+|url = [https://bitbucket.org/nimbus_it/proj_n-hlora bitbucket]
+|url2 = [https://bitbucket.org/nimbus_it/proj_n-hlora bitbucket]
+|ztatus = Design
+|bcolor = pink
+}}
+|}
+&lt;/pre&gt;
+{{clear}}
+
+
+[[Category:Template]]
+&lt;/noinclude&gt;</text>
+      <sha1>1ejnyixy9f9bo3vb15kx1vq2x4gmjof</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>
