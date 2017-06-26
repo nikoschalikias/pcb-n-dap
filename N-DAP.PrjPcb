@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for N-DAP
 LogFolderPath=
 ManagedProjectGUID=
 LinkedManagedProjectGUID=
@@ -331,7 +331,7 @@ OutputJobsCount=0
 ContentTypeGUID=
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for N-DAP
 
 [OutputGroup1]
 Name=Netlist Outputs
