@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for N-DAP
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 LinkedManagedProjectGUID=
@@ -239,7 +239,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=MUGPYWIE
 
 [Document13]
 DocumentPath=..\nBlocksAltiumLib\MOD2.PcbLib
@@ -256,7 +256,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=KVGALACQ
 
 [Document14]
 DocumentPath=..\nBlocksAltiumLib\NX1.SchLib
@@ -331,7 +331,7 @@ OutputJobsCount=0
 ContentTypeGUID=
 
 [Generic_EDE]
-OutputDir=Project Outputs for N-DAP
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
