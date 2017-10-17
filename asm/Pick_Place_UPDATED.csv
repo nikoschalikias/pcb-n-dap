@@ -1,0 +1,47 @@
+Altium Designer Pick and Place Locations
+C:\Users\fernando.cosentino\workspace\n-dap\asm\Pick_Place.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       17/10/17
+Time:       17:15
+Revision:   0
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"R8","33R","Top","0603_RES","13.770","7.625","90","RESISTOR"
+"SW4","EVQ-P2202M","Top","BUTTON_4.7x3.5mm","18.700","12.200","90","BUTTON TACTILE"
+"SW3","EVQ-P2202M","Top","BUTTON_4.7x3.5mm","5.025","0.500","90","BUTTON TACTILE"
+"JP2","USB-MINI-B","Top","USB-MINI-B-HIR-UX60A-MB-5ST","15.262","3.013","180",""
+"R15","18K","Top","0603_RES","2.100","5.225","180","RESISTOR"
+"R14","10K","Top","0603_RES","2.070","6.275","360","RESISTOR"
+"D5","NSR20F30NXT5G","Top","0603_DIODE-CDSU101A","1.525","3.487","270","DIODE"
+"U2","TPS78233","Top","SOT23-5_0.95MM-NOSILK","5.670","3.900","90",""
+"C10","1uF/MLCC","Top","0603_CAP","3.320","3.450","270","CAPACITOR"
+"C8","1uF/MLCC","Top","0603_CAP","7.970","4.075","90","CAPACITOR"
+"R7","470R","Top","0603_RES","20.495","8.650","360","RESISTOR"
+"R5","470R","Top","0603_RES","20.505","7.650","360","RESISTOR"
+"D3","LED_BLU_0603","Top","0603_LED_BLU","18.020","8.650","180",""
+"D2","LED_GRN_0603","Top","0603_LED_GRN","18.020","7.650","180",""
+"R4","10K","Top","0603_RES","11.525","12.025","180","RESISTOR"
+"R3","10K","Top","0603_RES","11.520","13.000","180","RESISTOR"
+"Y1","12MHz","Top","CRY-SMD4-2.5X2MM","2.645","9.605","90","CRYSTAL"
+"U1","LPC11U35FHI33/501","Top","QFN32_0.5MM_PAD","7.645","9.300","360",""
+"R10","1.5K","Top","0603_RES","15.025","10.125","270","RESISTOR"
+"R6","33R","Top","0603_RES","14.925","7.625","90","RESISTOR"
+"R2","680R","Top","0603_RES","21.000","6.450","360","RESISTOR"
+"R1","10K","Top","0603_RES","4.925","13.175","360","RESISTOR"
+"Q1","BSS84,215","Top","SOT323/SC70-3_SMALL","13.138","10.312","180","POWER MOSFET-P SOT23"
+"D1","LED_RED_0603","Top","0603_LED_RED","18.400","6.700","180",""
+"C7","33pF","Top","0603_CAP","2.200","7.350","180","CAPACITOR"
+"C6","33pF","Top","0603_CAP","2.500","11.950","360","CAPACITOR"
+"C5","100nF","Top","0603_CAP","4.650","5.750","360","CAPACITOR"
+"C4","100nF","Top","0603_CAP","7.475","13.175","180","CAPACITOR"
+"C3","18pF","Top","0603_CAP","15.875","7.650","270","CAPACITOR"
+"C2","18pF","Top","0603_CAP","12.650","7.650","270","CAPACITOR"
+"C1","100nF","Top","0603_CAP","2.380","13.165","180","CAPACITOR"
+"R12","0R","Top","0603_RES","17.470","9.625","180","RESISTOR"
+"R9","10K","Top","0603_RES","14.075","12.400","90","RESISTOR"
+"B1","N-DAP","Top","N-DAP","11.430","6.350","0",""

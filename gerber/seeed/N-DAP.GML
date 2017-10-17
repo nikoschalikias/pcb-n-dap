@@ -1,4 +1,4 @@
-G04 Layer_Color=33789*
+G04 Layer_Color=32768*
 %FSLAX44Y44*%
 %MOMM*%
 G71*

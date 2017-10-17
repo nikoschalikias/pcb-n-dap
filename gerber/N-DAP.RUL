@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: F:\orcad4\orcad\repo.n-blocks\n-dap\N-DAP.PcbDoc
+DRC Rules Export File for PCB: C:\Users\fernando.cosentino\workspace\n-dap\N-DAP.PcbDoc
 RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.91
 RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=5.87
 RuleKind=Clearance|RuleName=Clearance_GND_PLANE|Scope=Board|Minimum=15.75

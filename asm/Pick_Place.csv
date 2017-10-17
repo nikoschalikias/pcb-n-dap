@@ -1,11 +1,11 @@
 Altium Designer Pick and Place Locations
-F:\orcad4\orcad\repo.n-blocks\n-dap\asm\Pick_Place.csv
+C:\Users\fernando.cosentino\workspace\n-dap\asm\Pick_Place.csv
 
 ========================================================================================================================
 File Design Information:
 
-Date:       26/06/17
-Time:       11:22
+Date:       17/10/17
+Time:       17:15
 Revision:   0
 Variant:    No variations
 Units used: mm
@@ -15,7 +15,6 @@ Units used: mm
 "SW4","EVQ-P2202M","TopLayer","BUTTON_4.7x3.5mm","18.700","12.200","90","BUTTON TACTILE"
 "SW3","EVQ-P2202M","TopLayer","BUTTON_4.7x3.5mm","5.025","0.500","90","BUTTON TACTILE"
 "JP2","USB-MINI-B","TopLayer","USB-MINI-B-HIR-UX60A-MB-5ST","15.262","3.013","180",""
-"B1","N-DAP","TopLayer","N-DAP","11.430","6.350","0",""
 "R15","18K","TopLayer","0603_RES","2.100","5.225","180","RESISTOR"
 "R14","10K","TopLayer","0603_RES","2.070","6.275","360","RESISTOR"
 "D5","NSR20F30NXT5G","TopLayer","0603_DIODE-CDSU101A","1.525","3.487","270","DIODE"
@@ -45,3 +44,4 @@ Units used: mm
 "C1","100nF","TopLayer","0603_CAP","2.380","13.165","180","CAPACITOR"
 "R12","0R","TopLayer","0603_RES","17.470","9.625","180","RESISTOR"
 "R9","10K","TopLayer","0603_RES","14.075","12.400","90","RESISTOR"
+"B1","N-DAP","TopLayer","N-DAP","11.430","6.350","0",""
