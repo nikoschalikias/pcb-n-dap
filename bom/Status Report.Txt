@@ -1,6 +1,6 @@
 Project Outputs Generation Report
 ---------------------------------
-Start Output Generation At 17:21:11 On 17/10/2017
+Start Output Generation At 12:41:19 On 18/10/2017
 
 Output: Bill of Materials
 Type  : BOM
@@ -11,4 +11,4 @@ From  : Variant [[No Variations]] of Project [N-DAP.PrjPcb]
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 17:23:13 On 17/10/2017
+Finished Output Generation At 12:43:23 On 18/10/2017
