@@ -1,6 +1,6 @@
-DRC Rules Export File for PCB: C:\Users\fernando.cosentino\workspace\n-dap\N-DAP.PcbDoc
+DRC Rules Export File for PCB: F:\n-blocks\n-dap\N-DAP.PcbDoc
 RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.91
-RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=5.87
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=4.88
 RuleKind=Clearance|RuleName=Clearance_GND_PLANE|Scope=Board|Minimum=15.75
 RuleKind=Width|RuleName=12V_PLANE|Scope=Board|Minimum=7.87
 RuleKind=Width|RuleName=GND_PLANE|Scope=Board|Minimum=7.87
