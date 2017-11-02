@@ -24,7 +24,7 @@ set MM=%time:~3,2%
 set SS=%time:~6,2%
 set v_timestamp=%HH%%MM%%SS%
 
-if exist .\gerber\gerberFiles.zip del .\gerber\gerberFiles*.zip 
+if exist .\gerber\gerberFiles.zip del .\gerber\gerberFiles*.zip
 
 
 if exist .\gerber\%1.GBL copy .\gerber\%1.GBL .\gerber\renamed\BOTTOM.GBR
@@ -40,6 +40,7 @@ if exist .\gerber\%1.G1  copy .\gerber\%1.G2  .\gerber\renamed\MID_LAYER2.GBR
 if exist .\gerber\%1.GTP copy .\gerber\%1.GTP .\gerber\renamed\PASTE_TOP.GBR
 if exist .\gerber\%1.GBP copy .\gerber\%1.GBP  .\gerber\renamed\PASTE_BOTTOM.GBR
 if exist .\gerber\%1.GM3 copy .\gerber\%1.GM3 .\gerber\renamed\DIMENSIONS.GBR
+if exist .\gerber\%1.GM15 copy .\gerber\%1.GM3 .\gerber\renamed\ASSEMBLY.GBR
 if exist .\gerber\%1.TXT copy .\gerber\%1.TXT .\gerber\renamed\DRILL.TXT
 if exist .\gerber\DIMENSIONS.TXT copy .\gerber\DIMENSIONS.TXT .\gerber\renamed\DIMENSIONS.TXT
 
@@ -58,6 +59,7 @@ if exist .\gerber\renamed\PASTE_BOTTOM.GBR  7z.exe a -tzip gerberFiles.zip  .\ge
 if exist .\gerber\renamed\DRILL.TXT        7z.exe a -tzip gerberFiles.zip  .\gerber\renamed\DRILL.TXT
 if exist .\gerber\renamed\DIMENSIONS.GBR   7z.exe a -tzip gerberFiles.zip  .\gerber\renamed\DIMENSIONS.GBR
 if exist .\gerber\renamed\DIMENSIONS.TXT   7z.exe a -tzip gerberFiles.zip  .\gerber\renamed\DIMENSIONS.TXT
+if exist .\gerber\renamed\ASSEMBLY.GBR   7z.exe a -tzip gerberFiles.zip  .\gerber\renamed\ASSEMBLY.GBR
 if exist .\gerber\all_layers.pdf             7z.exe a -tzip gerberFiles.zip  .\gerber\all_layers.pdf
 if exist .\gerber\all_layers2.pdf            7z.exe a -tzip gerberFiles.zip  .\gerber\all_layers2.pdf
 

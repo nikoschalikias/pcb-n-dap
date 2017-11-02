@@ -273,7 +273,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=TKBPSRMJ
 
 [Document15]
 DocumentPath=..\nBlocksAltiumLib\NX2.SchLib
@@ -290,7 +290,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=RCOSPSVB
 
 [ProjectVariant1]
 UniqueID=C08481E8-C62E-40B7-89C9-35BB686A9D6C

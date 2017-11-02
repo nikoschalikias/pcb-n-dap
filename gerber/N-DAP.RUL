@@ -1,16 +1,16 @@
 DRC Rules Export File for PCB: F:\n-blocks\n-dap\N-DAP.PcbDoc
-RuleKind=Clearance|RuleName=Clearance IN CLASS 1mm|Scope=Board|Minimum=39.37
-RuleKind=Width|RuleName=WIDTH 1MM|Scope=Board|Minimum=29.53
-RuleKind=Width|RuleName=WIDTH0.5MM|Scope=Board|Minimum=9.84
-RuleKind=Width|RuleName=WIDTH0.25MM|Scope=Board|Minimum=7.87
-RuleKind=Width|RuleName=WIDTH2MM|Scope=Board|Minimum=9.84
-RuleKind=Width|RuleName=WIDTH1.5MM|Scope=Board|Minimum=19.69
-RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=0.00
-RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.87
-RuleKind=Clearance|RuleName=Clearance_+5V_POLY|Scope=Board|Minimum=19.69
-RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
-RuleKind=Width|RuleName=GND_PLANE|Scope=Board|Minimum=7.87
-RuleKind=Width|RuleName=12V_PLANE|Scope=Board|Minimum=7.87
-RuleKind=Clearance|RuleName=Clearance_GND_PLANE|Scope=Board|Minimum=15.75
-RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=4.88
 RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.91
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=4.88
+RuleKind=Clearance|RuleName=Clearance_GND_PLANE|Scope=Board|Minimum=15.75
+RuleKind=Width|RuleName=12V_PLANE|Scope=Board|Minimum=7.87
+RuleKind=Width|RuleName=GND_PLANE|Scope=Board|Minimum=7.87
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance_+5V_POLY|Scope=Board|Minimum=19.69
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.87
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=0.00
+RuleKind=Width|RuleName=WIDTH1.5MM|Scope=Board|Minimum=19.69
+RuleKind=Width|RuleName=WIDTH2MM|Scope=Board|Minimum=9.84
+RuleKind=Width|RuleName=WIDTH0.25MM|Scope=Board|Minimum=7.87
+RuleKind=Width|RuleName=WIDTH0.5MM|Scope=Board|Minimum=9.84
+RuleKind=Width|RuleName=WIDTH 1MM|Scope=Board|Minimum=29.53
+RuleKind=Clearance|RuleName=Clearance IN CLASS 1mm|Scope=Board|Minimum=39.37
