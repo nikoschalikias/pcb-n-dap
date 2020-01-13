@@ -1,8 +1,0 @@
-#SPECCTRA ShapeBased Automation Software V15.1 made 2003/11/17 at 23:03:32
-#Host 
-#ROUTING STATUS <<< .\N-DAP.dsn >>>
-Start  Time: Report Time: Fri Oct 16 19:44:05 2015
-
-Nets         =       33   Connections         =       79
-Current Wire =        0   Reroute wires       =      141
-Completion   =   59.49%   Unconnections       =       32
