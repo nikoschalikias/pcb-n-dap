@@ -1,0 +1,41 @@
+Removed Member From Class: ClassName=N-DAP Member=B2
+Change Component Kind : Designator=R13 Old Kind=Standard New Kind=Standard (No BOM)
+Added Component: Designator=JP2(USB-MINI-B-HIR-UX60A-MB-5ST-SMALL)
+Add component (AddParameter): Name = "Divider"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "S.Description"; Value = "USB Connectors MINI B RECEPT RA SMT W/O POST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "798-UX60A-MB-5ST"; VariantName = "[No Variations]"
+Added Component: Designator=U2(SOT23-5_0.95mm-NOSILK)
+Add component (AddParameter): Name = "Divider"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "S.Description"; Value = "LDO Voltage Regulators Sgl Fixed Out LDO 150mA,1uA Quies Crnt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "595-TPS78233DDCR"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=TXD0 Pin=B1-1
+Added Pin To Net: NetName=RXD0 Pin=B1-2
+Added Pin To Net: NetName=RESET-TGT Pin=B1-3
+Added Pin To Net: NetName=VBUS Pin=B1-4
+Added Pin To Net: NetName=3.3V Pin=B1-5
+Added Pin To Net: NetName=GND Pin=B1-6
+Added Pin To Net: NetName=SCL1 Pin=B1-7
+Added Pin To Net: NetName=SDA1 Pin=B1-8
+Added Pin To Net: NetName=ADC1 Pin=B1-9
+Added Pin To Net: NetName=SWCLK Pin=B1-10
+Added Pin To Net: NetName=SWDIO Pin=B1-11
+Added Pin To Net: NetName=ADC0 Pin=B1-12
+Added Pin To Net: NetName=VBUS Pin=JP2-1
+Added Pin To Net: NetName=LPC11-D- Pin=JP2-2
+Added Pin To Net: NetName=LPC11-D+ Pin=JP2-3
+Added Pin To Net: NetName=GND Pin=JP2-5
+Added Pin To Net: NetName=GND Pin=JP2-6
+Added Pin To Net: NetName=GND Pin=JP2-7
+Added Pin To Net: NetName=GND Pin=JP2-8
+Added Pin To Net: NetName=GND Pin=JP2-9
+Added Pin To Net: NetName=VBUS Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=VBUS Pin=U2-3
+Added Pin To Net: NetName=3.3V1 Pin=U2-5
+Added Pin To Net: NetName=GND Pin=Y1-2
+Added Pin To Net: NetName=GND Pin=Y1-4
+Added Member To Class: ClassName=N-DAP Member=Component B1 N-5
+Added Member To Class: ClassName=N-DAP Member=Component JP2 USB-MINI-B
+Added Member To Class: ClassName=N-DAP Member=Component U2 TPS78233
