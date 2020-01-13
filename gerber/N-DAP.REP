@@ -2,6 +2,106 @@
 FileName = N-DAP.GBR
 AutoAperture = True
 *************************************************************
+Generating : Mechanical 3
+      File : N-DAP.GM3
+
+    Adding Layer      : Mechanical 3
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : N-DAP.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : N-DAP.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : N-DAP.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : N-DAP.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D11
+    D12
+    D32
+    D39
+    D40
+*************************************************************
+
+*************************************************************
+Generating : Signal Layer 1
+      File : N-DAP.G1
+
+    Adding Layer      : Signal Layer 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D30
+    D31
+    D32
+*************************************************************
+
+*************************************************************
 Generating : Top Layer
       File : N-DAP.GTL
 
@@ -33,38 +133,10 @@ Used DCodes :
     D29
     D30
     D31
-*************************************************************
-
-*************************************************************
-Generating : GND PLANE
-      File : N-DAP.GP1
-
-    Adding Layer      : GND PLANE
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
     D32
     D33
     D34
     D35
-*************************************************************
-
-*************************************************************
-Generating : Signal Layer 1
-      File : N-DAP.G1
-
-    Adding Layer      : Signal Layer 1
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D26
-    D27
-    D29
-    D30
 *************************************************************
 
 *************************************************************
@@ -77,10 +149,27 @@ Generating : Bottom Layer
 
 
 Used DCodes :
-    D26
-    D27
-    D28
-    D29
+    D10
+    D11
+    D12
+    D30
+    D31
+    D32
+    D34
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : N-DAP.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
     D30
     D31
 *************************************************************
@@ -93,8 +182,21 @@ Generating : Top Overlay
 
 
 Used DCodes :
-    D26
-    D27
+    D10
+    D11
+    D12
+*************************************************************
+
+*************************************************************
+Generating : GND PLANE
+      File : N-DAP.GP1
+
+    Adding Layer      : GND PLANE
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
     D36
     D37
     D38
@@ -112,9 +214,6 @@ Generating : Top Paste
 
 
 Used DCodes :
-    D10
-    D11
-    D12
     D13
     D14
     D15
@@ -128,103 +227,9 @@ Used DCodes :
     D23
     D24
     D25
-*************************************************************
-
-*************************************************************
-Generating : Top Solder
-      File : N-DAP.GTS
-
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D28
-    D29
-    D30
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : N-DAP.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D28
-    D29
-    D30
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : N-DAP.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : N-DAP.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 3
-      File : N-DAP.GM3
-
-    Adding Layer      : Mechanical 3
-
-
-Used DCodes :
-    D26
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 15
-      File : N-DAP.GM15
-
-    Adding Layer      : Mechanical 15
-
-
-Used DCodes :
     D26
     D27
-    D36
+    D28
+    D29
 *************************************************************
 
