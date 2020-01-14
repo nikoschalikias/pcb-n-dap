@@ -1,0 +1,8 @@
+Removed Parameter S.Footprint:0603 (1608 metric) from Part D2
+Removed Parameter S.Footprint:0603 from Part D5
+Removed Parameter S.Footprint:0704 (1810 metric) from Part D1
+Change Value of Parameter Supplier Part Number 1 in Part C8 Old=81-GCM188R71C105K64D New=963-JMK105BJ105KP-F
+Change Value of Parameter Supplier Part Number 1 in Part C10 Old=81-GCM188R71C105K64D New=963-JMK105BJ105KP-F
+Change Value of Parameter Supplier Part Number 1 in Part R10 Old=667-ERJ-3EKF1501V New=71-CRCW04021K50FKEDC
+Change Value of Parameter Supplier Part Number 1 in Part R12 Old=667-ERJ-3GEY0R00V New=71-CRCW04020000Z0EDC
+Change Value of Parameter Supplier Part Number 1 in Part R15 Old=667-ERJ-3GEYJ183V New=71-CRCW0402-18K-E3

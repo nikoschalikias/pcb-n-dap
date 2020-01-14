@@ -1,0 +1,139 @@
+Change component parameters: Designator = "D3" ("D3"); Footprint = "0603_LED_BLU"; UniqueID = "\MKJKHXNC" ("\MKJKHXNC")
+Change component parameters (AddParameter): Name = "Divider"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Revision"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "720-LBQ39GL2N2351"; VariantName = "[No Variations]"
+Change component parameters: Designator = "JP2" ("JP2"); Footprint = "USB-MINI-B-HIR-UX60A-MB-5ST-SMALL"; UniqueID = "\GRBHQRHV" ("\GRBHQRHV")
+Change component parameters (AddParameter): Name = "Divider"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "798-UX60A-MB-5ST"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q1" ("Q1"); Footprint = "SOT323/SC70-3_SMALL"; UniqueID = "\WLDYCYSX" ("\WLDYCYSX")
+Change component parameters (AddParameter): Name = "Divider"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "621-BSS84W-F"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW3" ("SW3"); Footprint = "BUTTON_4.7x3.5mm"; UniqueID = "\AMWSRKCG" ("\AMWSRKCG")
+Change component parameters (AddParameter): Name = "Divider"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "667-EVQ-P2202M"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW4" ("SW4"); Footprint = "BUTTON_4.7x3.5mm"; UniqueID = "\JQJIIQJL" ("\JQJIIQJL")
+Change component parameters (AddParameter): Name = "Divider"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "667-EVQ-P2202M"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U1" ("U1"); Footprint = "QFN32_0.5mm_PAD"; UniqueID = "\SVANFUHU" ("\SVANFUHU")
+Change component parameters (AddParameter): Name = "Divider"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "771-LPC11U35FHI33501"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U2" ("U2"); Footprint = "SOT23-5_0.95MM-NOSILK"; UniqueID = "\AXOQHMNR" ("\AXOQHMNR")
+Change component parameters (AddParameter): Name = "Divider"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "595-TPS78233DDCR"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Y1" ("Y1"); Footprint = "CRY-SMD4-2.5x2mm"; UniqueID = "\NUXJBNHI" ("\NUXJBNHI")
+Change component parameters (AddParameter): Name = "Divider"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "717-8Z-12.000MAAJ-T"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "0402_CAP"; UniqueID = "\QBTNGCTS" ("\QBTNGCTS")
+Change component parameters (AddParameter): Name = "Divider"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "791-0402N180F500CT"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3" ("C3"); Footprint = "0402_CAP"; UniqueID = "\DDXSCOOV" ("\DDXSCOOV")
+Change component parameters (AddParameter): Name = "Divider"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "791-0402N180F500CT"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D1" ("D1"); Footprint = "0603_LED_RED"; UniqueID = "\KLKFRJIS" ("\KLKFRJIS")
+Change component parameters (AddParameter): Name = "Divider"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Revision"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "720-LSQ976-NR-1"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D2" ("D2"); Footprint = "0603_LED_GRN"; UniqueID = "\HLHSEPEW" ("\HLHSEPEW")
+Change component parameters (AddParameter): Name = "Divider"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Revision"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "604-APT1608SGC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D5" ("D5"); Footprint = "0603_DIODE-NSR20F30"; UniqueID = "\CNUUSTJE" ("\CNUUSTJE")
+Change component parameters (AddParameter): Name = "Divider"; Value = "1.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "863-NSR20F30NXT5G"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1" ("C1"); Footprint = "0402_CAP"; UniqueID = "\HJOTMQCX" ("\HJOTMQCX")
+Change component parameters (AddParameter): Name = "Divider"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "710-885012105016"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4" ("C4"); Footprint = "0402_CAP"; UniqueID = "\ICIXOMMY" ("\ICIXOMMY")
+Change component parameters (AddParameter): Name = "Divider"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "710-885012105016"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5" ("C5"); Footprint = "0402_CAP"; UniqueID = "\IPXXAWKO" ("\IPXXAWKO")
+Change component parameters (AddParameter): Name = "Divider"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "710-885012105016"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6" ("C6"); Footprint = "0402_CAP"; UniqueID = "\LKWCLCYK" ("\LKWCLCYK")
+Change component parameters (AddParameter): Name = "Divider"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "710-885012005058"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7" ("C7"); Footprint = "0402_CAP"; UniqueID = "\BGUAUONK" ("\BGUAUONK")
+Change component parameters (AddParameter): Name = "Divider"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "710-885012005058"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C8" ("C8"); Footprint = "0402_CAP"; UniqueID = "\HQKCYREV" ("\HQKCYREV")
+Change component parameters (AddParameter): Name = "Divider"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "963-JMK105BJ105KP-F"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C10" ("C10"); Footprint = "0402_CAP"; UniqueID = "\RPMUJQDA" ("\RPMUJQDA")
+Change component parameters (AddParameter): Name = "Divider"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "963-JMK105BJ105KP-F"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1" ("R1"); Footprint = "0402_res"; UniqueID = "\RKQFEHFC" ("\RKQFEHFC")
+Change component parameters (AddParameter): Name = "Divider"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "71-CRCW040210K0FKEDC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "0402_res"; UniqueID = "\BRRRAIBJ" ("\BRRRAIBJ")
+Change component parameters (AddParameter): Name = "Divider"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "71-CRCW0402680RFKEDC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3" ("R3"); Footprint = "0402_res"; UniqueID = "\WBOVOILI" ("\WBOVOILI")
+Change component parameters (AddParameter): Name = "Divider"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "71-CRCW040210K0FKEDC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4" ("R4"); Footprint = "0402_res"; UniqueID = "\YGIANAOP" ("\YGIANAOP")
+Change component parameters (AddParameter): Name = "Divider"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "71-CRCW040210K0FKEDC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5" ("R5"); Footprint = "0402_RES"; UniqueID = "\KOWRGLFX" ("\KOWRGLFX")
+Change component parameters (AddParameter): Name = "Divider"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "71-CRCW0402470RFKEDC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6" ("R6"); Footprint = "0402_res"; UniqueID = "\BURSRDQG" ("\BURSRDQG")
+Change component parameters (AddParameter): Name = "Divider"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "71-CRCW040233R0FKEDC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7" ("R7"); Footprint = "0402_RES"; UniqueID = "\DMBXSQUL" ("\DMBXSQUL")
+Change component parameters (AddParameter): Name = "Divider"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "71-CRCW0402470RFKEDC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8" ("R8"); Footprint = "0402_res"; UniqueID = "\PLGVXTYF" ("\PLGVXTYF")
+Change component parameters (AddParameter): Name = "Divider"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "71-CRCW040233R0FKEDC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9" ("R9"); Footprint = "0402_res"; UniqueID = "\RIDLUIFD" ("\RIDLUIFD")
+Change component parameters (AddParameter): Name = "Divider"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "71-CRCW040210K0FKEDC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10" ("R10"); Footprint = "0402_res"; UniqueID = "\DKWYXJWR" ("\DKWYXJWR")
+Change component parameters (AddParameter): Name = "Divider"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "71-CRCW04021K50FKEDC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R12" ("R12"); Footprint = "0402_res"; UniqueID = "\VFDIXHLS" ("\VFDIXHLS")
+Change component parameters (AddParameter): Name = "Divider"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "71-CRCW04020000Z0EDC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R13" ("R13"); Footprint = "0402_res"; UniqueID = "\CNIPFOFU" ("\CNIPFOFU")
+Change component parameters (AddParameter): Name = "Divider"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "71-CRCW04020000Z0EDC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R14" ("R14"); Footprint = "0402_RES"; UniqueID = "\SEFGDIWY" ("\SEFGDIWY")
+Change component parameters (AddParameter): Name = "Divider"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "71-CRCW040210K0FKEDC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R15" ("R15"); Footprint = "0402_RES"; UniqueID = "\ECENHAIP" ("\ECENHAIP")
+Change component parameters (AddParameter): Name = "Divider"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "71-CRCW0402-18K-E3"; VariantName = "[No Variations]"
