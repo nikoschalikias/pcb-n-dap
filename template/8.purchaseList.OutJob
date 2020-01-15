@@ -48,7 +48,7 @@ PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 Configuration1_Name1=ColumnNameFormat
 Configuration1_Item1=CaptionAsName
 Configuration1_Name2=General
-Configuration1_Item2=OpenExported=True|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=True|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=True|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=F:\n-blocks\n-pro-00\template\PurchaseList.xltx|TemplateVaultGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1378|FormHeight=661|SupplierProdQty=100|SupplierAutoQty=True|SupplierUseCachedPricing=True|SupplierCurrency=EUR|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|UseDirectApi=False|BomSetName=
+Configuration1_Item2=OpenExported=True|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=True|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=True|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=F:\n-blocks\n-pro-00\template\PurchaseList.xltx|TemplateVaultGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1378|FormHeight=661|SupplierProdQty=36|SupplierAutoQty=True|SupplierUseCachedPricing=True|SupplierCurrency=EUR|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|UseDirectApi=False|BomSetName=
 Configuration1_Name3=GroupOrder
 Configuration1_Item3=Manufacturer 1=True|Comment=True|Footprint=True
 Configuration1_Name4=SortOrder
@@ -84,7 +84,7 @@ ShowComponentParameters2=0
 GlobalBookmarks2=0
 PDFACompliance2=Disabled
 PDFVersion2=Default
-OutputFilePath3=F:\n-blocks\n-pro-00\bom\
+OutputFilePath3=F:\n-blocks\n-dap\bom\
 ReleaseManaged3=0
 OutputBasePath3=bom\
 OutputPathMedia3=
@@ -99,7 +99,7 @@ OutputFileNameSpecial3=
 OpenOutput3=1
 OutputFilePath4=
 ReleaseManaged4=1
-OutputBasePath4=Project Outputs for N-PRO-00
+OutputBasePath4=Project Outputs for N-DAP
 OutputPathMedia4=
 OutputPathMediaValue4=
 OutputPathOutputer4=[Output Type]
@@ -138,7 +138,7 @@ WmvQuality4=80
 [GeneratedFilesSettings]
 RelativeOutputPath2=bom\purchase.PDF
 OpenOutputs2=1
-RelativeOutputPath3=F:\n-blocks\n-pro-00\bom\
+RelativeOutputPath3=F:\n-blocks\n-dap\bom\
 OpenOutputs3=1
 AddToProject3=0
 TimestampFolder3=0
