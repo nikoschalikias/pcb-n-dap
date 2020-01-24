@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: N-DAP.PcbDoc   14-Jan-20  11:57:15 AM
+NCDrill File Report For: N-DAP.PcbDoc   24-Jan-20  4:30:37 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,10 +7,10 @@ ASCII RoundHoles File : N-DAP.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.2mm (8mil)                                              Round             1         PTH        0.00mm (0.00inch)
+T1      0.2mm (8mil)                                              Round             2         PTH        0.00mm (0.00inch)
 T2      0.25mm (10mil)                                            Round             59        PTH        0.00mm (0.00inch)
-T3      0.8mm (31mil)                                             Round             16        PTH        0.00mm (0.00inch)
+T3      0.8mm (31mil)                                             Round             13        PTH        0.00mm (0.00inch)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              76
+Totals                                                                              74
 
 Total Processing Time (hh:mm:ss) : 00:00:00
