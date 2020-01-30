@@ -2,3 +2,5 @@ x submit to cit for PO
 x first submission to Beta Layout
 x update PCB and resubmit after errors found from Betalayout
 (A) Follow up with Betalayout
+x Assembly file create and send with 3D file
+(A) Tidy up the outjob file PurchaseList, remove the assembly and tidy up somewhere else
